@@ -1,0 +1,76 @@
+"*":
+  "advanced-open-file":
+    createDirectories: true
+    defaultInputValue: "Project root"
+    helmDirSwitch: true
+  autosave:
+    enabled: true
+  "color-picker":
+    abbreviateValues: true
+  core:
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "platformio-ide"
+      "platformio-ide-debugger"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      ".pioenvs"
+      ".piolibdeps"
+      ".clang_complete"
+      ".gcc-flags.json"
+    ]
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: [
+      "tool-bar"
+      "platformio-ide"
+    ]
+    projectHome: "C:\\Users\\justi\\dev"
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "b1d081a0-fd57-4dab-8e97-543625dd4f0c"
+  "file-icons":
+    coloured: false
+  "flex-tool-bar": {}
+  "git-diff":
+    showIconsInEditorGutter: true
+  "linter-ui-default":
+    useBusySignal: false
+  "one-dark-ui":
+    fontSize: 13
+  "package-sync":
+    createOnChange: true
+  "platformio-ide-terminal":
+    core:
+      shell: "C:\\Windows\\System32\\bash.exe"
+    toggles:
+      autoClose: true
+  "project-manager":
+    includeGitRepositories: true
+  "remote-sync":
+    foldLogPanel: true
+  "sync-settings":
+    _lastBackupHash: "af801e20b25b6929c8eb5435abac28247134989f"
+    gistId: "a5f0d6b7f4bfe853562ed254fcdceee7"
+    personalAccessToken: "47b757646739b4586779ef31ef2ea46316ee0151"
+    quietUpdateCheck: true
+  "todo-show":
+    autoRefresh: false
+    statusBarIndicator: true
+  "tool-bar":
+    iconSize: "16px"
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false

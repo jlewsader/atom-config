@@ -1,0 +1,16 @@
+[
+  {
+    title: "HA-Config"
+    paths: [
+      "C:\\Users\\justi\\Desktop\\Home Assistant\\config"
+    ]
+    icon: "icon-home"
+  }
+  {
+    title: "Home Assistant"
+    paths: [
+      "C:\\Users\\justi\\Dev\\home-assistant"
+    ]
+    icon: "icon-home"
+  }
+]
